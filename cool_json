@@ -1,5 +1,6 @@
 {
 "name": "tree",
 "age": 5,
-"location": "Belarus"
+"location": "Belarus",
+"character":"bad"
 }
